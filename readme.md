@@ -58,7 +58,6 @@ This is a locally running Python Web application that calculates linear producti
     - always cumulative, i.e., non-decreasing order
     - the last day always has a forecast demand (otherwise is not meaningful)
 - For each product by site
-    - day entries start from 0
     - day entries are consecutive, i.e., no missing days
 - Input file contains 4 columns (site, product, day, demand)
 
